@@ -87,8 +87,8 @@ namespace JosueBaca
         {
             if (string.IsNullOrEmpty(IdentidadTextBox.Text))
             {
-                errorProvider1.SetError(TipoSoporteComboBox, "Consulte un Cliente");
-                TipoSoporteComboBox.Focus();
+                errorProvider1.SetError(IdentidadTextBox, "Consulte un Cliente");
+                IdentidadTextBox.Focus();
                 return;
             }
             errorProvider1.Clear();

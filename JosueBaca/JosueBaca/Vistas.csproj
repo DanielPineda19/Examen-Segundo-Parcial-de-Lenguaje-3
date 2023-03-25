@@ -172,5 +172,17 @@
   <ItemGroup>
     <None Include="Resources\cancelar ticket.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vertical_Lockup_on_White_Background-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vertical Lockup on White Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tech.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tech Login.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

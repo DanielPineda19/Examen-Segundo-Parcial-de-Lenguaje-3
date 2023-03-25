@@ -148,7 +148,7 @@
             this.toolStripEx2.Office12Mode = false;
             this.toolStripEx2.Padding = new System.Windows.Forms.Padding(3, 0, 0, 0);
             this.toolStripEx2.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.toolStripEx2.Size = new System.Drawing.Size(90, 75);
+            this.toolStripEx2.Size = new System.Drawing.Size(59, 75);
             this.toolStripEx2.TabIndex = 0;
             // 
             // TicketToolStripButton
@@ -198,6 +198,7 @@
             this.ClientSize = new System.Drawing.Size(753, 474);
             this.Controls.Add(this.backStage1);
             this.Controls.Add(this.ribbonControlAdv1);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
             this.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.IsMdiContainer = true;
             this.Margin = new System.Windows.Forms.Padding(4);

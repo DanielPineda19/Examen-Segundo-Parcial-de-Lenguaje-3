@@ -153,6 +153,26 @@ namespace JosueBaca.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Tech {
+            get {
+                object obj = ResourceManager.GetObject("Tech", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Tech_Login {
+            get {
+                object obj = ResourceManager.GetObject("Tech Login", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ticket_de_soporte {
             get {
                 object obj = ResourceManager.GetObject("ticket-de-soporte", resourceCulture);
@@ -176,6 +196,26 @@ namespace JosueBaca.Properties {
         internal static System.Drawing.Bitmap usuario {
             get {
                 object obj = ResourceManager.GetObject("usuario", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vertical_Lockup_on_White_Background {
+            get {
+                object obj = ResourceManager.GetObject("Vertical Lockup on White Background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Vertical_Lockup_on_White_Background_removebg_preview {
+            get {
+                object obj = ResourceManager.GetObject("Vertical_Lockup_on_White_Background-removebg-preview", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
